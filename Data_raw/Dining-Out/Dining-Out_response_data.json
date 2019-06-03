@@ -1,0 +1,29 @@
+{
+  "Default Fallback Intent": [
+    "I didn't get that. Can you say it again?",
+    "I missed what you said. Say it again?",
+    "Sorry, could you say that again?",
+    "Sorry, can you say that again?",
+    "Can you say that again?",
+    "Sorry, I didn't get that.",
+    "Sorry, what was that?",
+    "One more time?",
+    "What was that?",
+    "Say that again?",
+    "I didn't get that.",
+    "I missed that."
+  ],
+  "Default Welcome Intent": [
+    "Hi! I can help you to find a nice place to eat. Tell me what are you looking for?",
+    "Hello! I can help you to find a nice place to eat. Tell me what are you looking for?",
+    "Good day! I can help you to find a nice place to eat. Tell me what are you looking for?",
+    "Greetings! I can help you to find a nice place to eat. Tell me what are you looking for?"
+  ],
+  "venues.eating_out.search - new venue": [],
+  "venues.eating_out.search": [],
+  "venues.nightlife.search - new venue": [],
+  "venues.nightlife.search": [],
+  "venues.search - location": [],
+  "venues.search - open": [],
+  "venues.search - sort": []
+}

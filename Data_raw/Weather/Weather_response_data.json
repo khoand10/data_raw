@@ -1,0 +1,13 @@
+{
+  "weather - context_weather - comment_activity": [],
+  "weather - context_weather - comment_address & date-time": ["Thời tiết vào lúc {{ date-time }} ở {{ address }} là"],
+  "weather - context_weather - comment_address": ["Thời tiết ở {{ address }} là"],
+  "weather - context_weather - comment_condition": [],
+  "weather - context_weather - comment_date time": [],
+  "weather - context_weather - comment_outfit": [],
+  "weather.activity": ["Thời tiết vào lúc {{ date-time }} ở {{ address }} sẽ {{ weather-condition }}"],
+  "weather.condition": [],
+  "weather": [],
+  "weather.outfit": [],
+  "weather.temperature": []
+}

@@ -1,0 +1,93 @@
+{
+  "Default Fallback Intent": [],
+  "Default Welcome Intent": [],
+  "venues.eating_out.search - new venue": [
+    ["venue-type", ""],
+    ["location", ""],
+    ["dish", ""],
+    ["beverage", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["venue-facility", ""],
+    ["sort", ""],
+    ["cuisine", ""],
+    ["rating", ""],
+    ["open", ""]
+  ],
+  "venues.eating_out.search": [
+    ["dish", ""],
+    ["beverage", ""],
+    ["location", ""],
+    ["cuisine", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["venue-facility", ""],
+    ["sort", ""],
+    ["meal", ""],
+    ["rating", ""],
+    ["open", ""],
+    ["stars", ""]
+  ],
+  "venues.nightlife.search - new venue": [
+    ["venue-type", ""],
+    ["beverage", ""],
+    ["location", ""],
+    ["sort", ""],
+    ["open", ""],
+    ["rating", ""]
+  ],
+  "venues.nightlife.search": [
+    ["beverage", ""],
+    ["location", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["venue-facility", ""],
+    ["sort", ""],
+    ["open", ""],
+    ["stars", ""]
+  ],
+  "venues.search - location": [
+    ["location", ""],
+    ["dish", ""],
+    ["beverage", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["sort", ""],
+    ["meal", ""],
+    ["venue-facility", ""],
+    ["open", ""],
+    ["cuisine", ""],
+    ["rating", ""]
+  ],
+  "venues.search - open": [
+    ["open", ""],
+    ["location", ""],
+    ["dish", ""],
+    ["beverage", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["sort", ""],
+    ["meal", ""],
+    ["cuisine", ""],
+    ["venue-facility", ""],
+    ["rating", ""]
+  ],
+  "venues.search - sort": [
+    ["sort", ""],
+    ["location", ""],
+    ["dish", ""],
+    ["beverage", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["venue-facility", ""],
+    ["cuisine", ""],
+    ["meal", ""],
+    ["rating", ""],
+    ["open", ""]
+  ]
+}

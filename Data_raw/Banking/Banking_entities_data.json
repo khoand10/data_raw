@@ -1,0 +1,32 @@
+{
+  "account": ["checking account", "savings account", "credit card"],
+  "category": [
+    "ATM Withdrawals",
+    "Auto",
+    "Travel",
+    "Payroll",
+    "Shopping",
+    "Restaurants",
+    "Taxes",
+    "Utilities",
+    "Deposits",
+    "Withdrawals"
+  ],
+  "merchant": [
+    "Burger King",
+    "Marriot Paris",
+    "H&M",
+    "Amazon",
+    "ARCO",
+    "Shell",
+    "Marks & Spencer",
+    "Acme Payroll",
+    "Belle Tire",
+    "Hyatt London",
+    "7-Eleven",
+    "PG&E",
+    "Papa John's Pizza",
+    "Starbucks"
+  ],
+  "transfer-type": ["Credit", "Deposit", "EFT"]
+}

@@ -1,0 +1,20 @@
+{
+  "hotel.book - context_book-hotel - comment_another one": [],
+  "hotel.book": [
+    ["location", ""],
+    ["venue-type", ""],
+    ["venue-title", ""],
+    ["venue-chain", ""],
+    ["checkin-date", ""],
+    ["period", ""],
+    ["sort", ""],
+    ["adult", ""],
+    ["child", ""],
+    ["night", ""],
+    ["star", ""],
+    ["room-facility", ""],
+    ["venue-facility", ""],
+    ["checkout-date", ""],
+    ["price", ""]
+  ]
+}

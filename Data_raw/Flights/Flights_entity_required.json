@@ -1,0 +1,100 @@
+{
+  "faq.airport.map": [
+    ["airport", "Sure, for what airport?"]
+  ],
+  "faq.baggage": [],
+  "faq.checkin.online": [],
+  "faq.complaint": [
+    ["complaint", "Sorry you had some trouble with our process. Please briefly type in your issue."]
+  ],
+  "faq.delays": [],
+  "faq.luggage.cabin_bags": [],
+  "faq.luggage.cabin_items": [
+    ["cabin-item", ""]
+  ],
+  "faq.luggage.hold_luggage": [],
+  "faq.luggage.missing": [],
+  "faq.luggage.resticted_items": [
+    ["restricted-items", ""]
+  ],
+  "faq.special_requests": [
+    ["special-requests", "What's your request?"],
+    ["reservation-number", "I can help you with that. What\u2019s the reservation number?"]
+  ],
+  "faq.travel_docs": [],
+  "flight - context_flight - comment_airline": [
+    ["airline", ""]
+  ],
+  "flight - context_flight - comment_departure-date": [
+    ["departure", ""]
+  ],
+  "flight - context_flight - comment_from": [
+    ["from", ""]
+  ],
+  "flight - context_flight - comment_return-date": [
+    ["return", ""]
+  ],
+  "flight - context_flight - comment_to": [
+    ["to", ""]
+  ],
+  "flight.book - context_book-flight - comment_another one": [],
+  "flight.book - next": [],
+  "flight.book - previous": [],
+  "flight.book - repeat": [],
+  "flight.book": [
+    ["from", ""],
+    ["to", ""],
+    ["departure", ""],
+    ["return", ""],
+    ["ticket-type", ""],
+    ["adult", ""],
+    ["child", ""],
+    ["class", ""],
+    ["nonstop", ""],
+    ["refundable", ""],
+    ["airline", ""],
+    ["sort", ""],
+    ["price", ""],
+    ["stops", ""]
+  ],
+  "flight.check - context_check-flight - comment_airline": [
+    ["airline", ""]
+  ],
+  "flight.check - context_check-flight - comment_from": [
+    ["from", ""]
+  ],
+  "flight.check - context_check-flight - comment_number": [
+    ["flight-number", ""]
+  ],
+  "flight.check - context_check-flight - comment_to": [
+    ["to", ""]
+  ],
+  "flight.check": [
+    ["flight-number", ""],
+    ["from", ""],
+    ["to", ""],
+    ["airline", ""],
+    ["date-time", ""]
+  ],
+  "flight.location.check": [
+    ["location", ""]
+  ],
+  "flight.search - next": [],
+  "flight.search - previous": [],
+  "flight.search - repeat": [],
+  "flight.search": [
+    ["from", ""],
+    ["to", ""],
+    ["departure", ""],
+    ["return", ""],
+    ["ticket-type", ""],
+    ["adult", ""],
+    ["child", ""],
+    ["class", ""],
+    ["nonstop", ""],
+    ["refundable", ""],
+    ["airline", ""],
+    ["sort", ""],
+    ["price", ""]
+  ]
+}

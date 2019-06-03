@@ -1,0 +1,44 @@
+{
+  "account.balance.check - context_ account": [["account", ""]],
+  "account.balance.check - context_ balance": [["account", ""]],
+  "account.balance.check": [
+    [
+      "account",
+      "What account do you want the balance for: savings or checking?"
+    ]
+  ],
+  "account.earning.check - context_ earning - date": [
+    ["date", ""],
+    ["account", ""]
+  ],
+  "account.earning.check": [
+    ["account", "What account are we checking?"],
+    ["date-time", ""],
+    ["category", ""]
+  ],
+  "account.open": [],
+  "account.spending.check - context_ spending - date": [
+    ["date", ""],
+    ["account", ""],
+    ["merchant", ""]
+  ],
+  "account.spending.check": [
+    ["merchant", ""],
+    ["account", "What account are we checking?"],
+    ["category", ""],
+    ["date-time", ""]
+  ],
+  "Default Fallback Intent": [],
+  "Default Welcome Intent": [],
+  "payment.due_date": [],
+  "transfer.amount.check": [["type", ""]],
+  "transfer.date.check": [["type", ""]],
+  "transfer.money - no": [],
+  "transfer.money - yes": [],
+  "transfer.money": [
+    ["account-from", "Sure. Transfer from which account?"],
+    ["account-to", "To which account?"],
+    ["amount", "And, how much do you want to transfer?"]
+  ],
+  "transfer.sender.check": [["type", ""]]
+}

@@ -1,0 +1,44 @@
+{
+  "account.balance.check - context_ account": [
+    "Here's the balance for this account:"
+  ],
+  "account.balance.check - context_ balance": ["This is your latest balance:"],
+  "account.balance.check": ["Here's your latest balance:"],
+  "account.earning.check - context_ earning - date": [
+    "Here are your deposits for that date:"
+  ],
+  "account.earning.check": ["Here are your deposit transactions:"],
+  "account.open": [
+    "To open your account you should come to one of our banks in person. Don't forget to bring your ID."
+  ],
+  "account.spending.check - context_ spending - date": [
+    "Here are your withdrawals for that date:"
+  ],
+  "account.spending.check": ["Here are your withdrawals:"],
+  "Default Fallback Intent": [
+    "Sorry, I didn\u2019t get that.",
+    "I'm afraid I don't understand.",
+    "Sorry, say that again?",
+    "Sorry, can you say that again?",
+    "I didn't get that. Can you say it again?",
+    "Sorry, could you say that again?",
+    "Sorry, can you tell me again?",
+    "Sorry, tell me one more time?",
+    "Sorry, can you say that again?"
+  ],
+  "Default Welcome Intent": [
+    "Hello. Welcome to ACME Bank.",
+    "Hello, thanks for choosing ACME Bank."
+  ],
+  "payment.due_date": ["The due date is:"],
+  "transfer.amount.check": ["The last transfer into your account was:"],
+  "transfer.date.check": ["Your last incoming transfer was on:"],
+  "transfer.money - no": ["Sorry. Can you repeat your transfer request?"],
+  "transfer.money - yes": [
+    "Okay, I have processed your transfer. Your confirmation number is:"
+  ],
+  "transfer.money": [
+    "All right. So, you're transferring $amount from your $account-from to a $account-to. Is that right?"
+  ],
+  "transfer.sender.check": ["Your last deposit was by:"]
+}

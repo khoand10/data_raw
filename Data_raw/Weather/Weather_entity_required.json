@@ -1,0 +1,21 @@
+{
+  "weather - context_weather - comment_activity": [["activity", ""]],
+  "weather - context_weather - comment_address & date-time": [
+    ["address", ""],
+    ["date-time", ""]
+  ],
+  "weather - context_weather - comment_address": [["address", ""]],
+  "weather - context_weather - comment_condition": [["weather-condition", ""]],
+  "weather - context_weather - comment_date time": [["date-time", ""]],
+  "weather - context_weather - comment_outfit": [["outfit", ""]],
+  "weather.activity": [["activity", ""], ["date-time", ""], ["address", ""]],
+  "weather.condition": [["date-time", ""], ["weather-condition", ""], ["address", ""]],
+  "weather": [["date-time", ""], ["address", ""], ["unit-temperature", ""]],
+  "weather.outfit": [["outfit", ""], ["address", ""], ["date-time", ""]],
+  "weather.temperature": [
+    ["address", ""],
+    ["temperature", ""],
+    ["date-time", ""],
+    ["unit-temperature", ""]
+  ]
+}
